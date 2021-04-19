@@ -10,4 +10,4 @@ Repo with information about React and styling
 
 
 # RoadMap
-![Road Map](https://roadmap.sh/react)
+[Road Map](https://roadmap.sh/react)
